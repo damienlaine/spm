@@ -1,6 +1,6 @@
 # Manifeste pour un TLD .PM souverain et innovant
 
-Saint-Pierre et Miquelon dispose de sa propre extension de nom de domaine (comme les .fr, les .com etc). Celà s'appelle un TLD (Top Level Domain). Vous l'avez peut-être oublié, n'importe qui peut acheter un nom de domaine qui se termine en .pm et ce site le démontre.
+___Saint-Pierre et Miquelon dispose de sa propre extension de nom de domaine (comme les .fr, les .com etc). Celà s'appelle un TLD (Top Level Domain). Vous l'avez peut-être oublié, n'importe qui peut acheter un nom de domaine qui se termine en .pm et ce site le démontre.___
 
 La gestion du TLD .pm a été déléguée à l'AFNIC, mais il est temps de ramener cette responsabilité sur Saint-Pierre et Miquelon. En exploitant ce contrôle, l'archipel peut non seulement renforcer sa souveraineté numérique mais également générer des opportunités économiques significatives. 
 
