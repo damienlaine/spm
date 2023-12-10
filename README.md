@@ -1,17 +1,17 @@
-# Manifeste pour un TLD .PM souverain et innovant
+# Draft - Manifeste pour un TLD .PM souverain et innovant
 
 ___Saint-Pierre et Miquelon dispose de sa propre extension de nom de domaine (comme les .fr, les .com etc). Celà s'appelle un TLD (Top Level Domain). Vous l'avez peut-être oublié, n'importe qui peut acheter un nom de domaine qui se termine en .pm et ce site le démontre.___
 
 La gestion du TLD .pm a été déléguée à l'AFNIC, mais il est temps de ramener cette responsabilité sur Saint-Pierre et Miquelon. En exploitant ce contrôle, l'archipel peut non seulement renforcer sa souveraineté numérique mais également générer des opportunités économiques significatives. 
 
 **1. Opportunité économique d'un Data Center:**
-Les projets de Data Center actuels sur l'archipel manquent d'usages forts pour démarrer. La gestion locale du TLD .pm offre une opportunité unique d'établir un premier usage remarquable, introduisant Saint-Pierre et Miquelon comme un acteur clé dans le paysage numérique mondial.
+Les projets d'implentation de Data Center actuels sur l'archipel manquent d'usages forts initiaux [SCHÉMA DIRECTEUR TERRITORIAL D’AMÉNAGEMENT NUMÉRIQUE](DELIB2021-0289.pdf). La gestion locale du TLD .pm offre une opportunité unique d'établir un premier usage remarquable, introduisant Saint-Pierre et Miquelon comme un acteur clé dans le paysage numérique mondial.
 
 **2. Utilisation du câble numérique sous-marin comme un atout:**
-Le câble numérique sous-marin connectant l'archipel est une ressource stratégique. On peut exploiter ce câble comme une opportunité pour fournir des services numérique divers (hébérgement, Cloud, Streaming, Télétravail et collaboration...) et les associer en "up-sale" / option
+Le câble numérique sous-marin connectant l'archipel est une ressource stratégique. On peut exploiter ce câble comme une opportunité pour fournir des services numérique divers (hébérgement, Cloud, Streaming, Télétravail et collaboration...) créant une valeur ajoutée pouvant être associée à des domaines en .pm
 
 **3. Diversification des revenus:**
-En reprenant la gestion du TLD, Saint-Pierre et Miquelon peuvent explorer diverses pistes de revenus. Cela inclut la redistribution des revenus du TLD, la création d'un fonds de développement local, et des partenariats avec des entreprises numériques locales pour promouvoir le développement économique durable.
+En reprenant la gestion du TLD, Saint-Pierre et Miquelon peut explorer diverses pistes de revenus. Cela inclut la redistribution des revenus du TLD, la création d'un fonds de développement local, et des partenariats avec des entreprises numériques locales pour promouvoir le développement économique durable.
 
 **4. Éthique du contenu et respect du droit numérique:**
 À la différence de certaines initiatives plus anciennes et moins maîtrisées, l'approche de Saint-Pierre et Miquelon repose sur une éthique du contenu. En respectant les normes et la sécurité du droit numérique, le TLD .pm sera promu comme une destination en ligne fiable et sécurisée.
@@ -20,7 +20,7 @@ En reprenant la gestion du TLD, Saint-Pierre et Miquelon peuvent explorer divers
 La gestion du TLD .pm sera une occasion de moderniser les processus de propriété des domaines en intégrant la technologie blockchain. Les smart contracts offriront une transparence accrue et une sécurité renforcée, créant ainsi un environnement numérique fiable et innovant.
 
 **6. Inspiré par le modèle .tk de Tokelau, mais avec une emphase éthique:**
-Le modèle économique du .tk (domaine gratuit / options payantes) a été une manne financière pour Tokelau et son premier moteur de développement économique, social et culturel grace à une redistribution locale des revenus. Mais le projet pour le TLD .pm va au-delà en mettant l'accent sur l'éthique, la durabilité et la conformité aux normes internationales du droit numérique.
+Le modèle économique du [.tk](https://www.bfmtv.com/economie/entreprises/services/pourquoi-cette-ile-de-1-400-habitants-a-plus-de-sites-internet-que-la-france_AN-201603110173.html) (domaines gratuits / options payantes) a été une manne financière pour l'archipel de Tokelau, souverain sur son TLD. Cette innovation numérique est devenu le premier moteur de développement économique, social et culturel de l'archipel grace à une redistribution locale des revenus. Mais le projet pour le TLD .pm va au-delà en mettant l'accent sur l'éthique, la durabilité et la conformité aux normes internationales du droit numérique.
 
 **7. Rayonnement du TLD .pm:**
 La promotion active du TLD .pm contribuera à son rayonnement mondial, attirant l'attention des entreprises et individus à la recherche de domaines qui garantissent non seulement une présence en ligne, mais également une responsabilité sociale, éthique, tournée vers les futurs usages numérique comme le Web3, la BlockChain, la décentralisation...
