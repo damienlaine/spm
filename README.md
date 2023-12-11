@@ -53,12 +53,20 @@ Copyright (c) 2023 Damien Laine - damien.laine[@]gmail.com
 
 ## Références
 [Délibération et SCHÉMA DIRECTEUR TERRITORIAL D’AMÉNAGEMENT NUMÉRIQUE](DELIB2021-0289.pdf)
+
 [IANA - au sujet du .pm](https://www.iana.org/domains/root/db/pm.html)
+
 [Statistiques domaines AFNIC d'outre-mer](https://www.afnic.fr/observatoire-ressources/statistiques/)
+
 [.tk : 10.1% des sites à risque](http://www.vdp-digital.com/article-106-nom-de-domaine-dangereux)
+
 [.tk : 10% du PIB de l'archipel via l'entreprise Teletok](https://icannwiki.org/Teletok)
+
 [.tk : Historique du développement du projet - The Guardian](https://www.theguardian.com/technology/2007/oct/25/internet.guardianweeklytechnologysection)
+
 [.tk : "Depuis, l'archipel a été connecté au haut débit et a vu fleurir les cyber cafés"](https://la1ere.francetvinfo.fr/polynesie/tokelau-notre-voisin-numero-mondial-du-net-748217.html)
+
 [.tk : 30 Millions de nom de domaine pour 1400 habitants](https://www.bfmtv.com/economie/entreprises/services/pourquoi-cette-ile-de-1-400-habitants-a-plus-de-sites-internet-que-la-france_AN-201603110173.html)
+
 
 
