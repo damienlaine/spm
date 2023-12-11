@@ -11,6 +11,7 @@ Cependant, en contraste, le TLD .pm de Saint-Pierre et Miquelon enregistre actue
 Comparativement, les noms de domaine en .tk représentent environ 30 millions d'entrées, faisant de lui le deuxième domaine le plus populaire sur le web, juste derrière le .com et devant le .cn (Chine). Bien que sa croissance ait ralenti ces derniers temps :
    - La plupart des noms qui ont un sens sont utilisés
    - Du fait de leurs gratuités, les domaines .tk sont devenus un repère de sites pirates, d'[hameçonnage](https://fr.wikipedia.org/wiki/Hame%C3%A7onnage), et de contenus frauduleux. Le TLD .tk est ainssi copieusement handicapé par les algorithmes des moteurs de recherche et représente 10.1% des sites à risque selon McAfee.
+
 Actuellement, il n'existe aucune alternative de qualité permettant d'obtenir un nom de domaine gratuit. Pourtant, à l'ère du Web3, des protocoles de nom basés sur la blockchain, des NFT, des smart contracts... les technologies abondent pour lier diverses sources de revenus à des domaines proposés gratuitement. C'est sur cette base que s'édifie notre démarche d'innovation.
 
 **2. Opportunité économique d'un Data Center:**
