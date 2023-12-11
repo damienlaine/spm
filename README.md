@@ -15,7 +15,7 @@ Comparativement, les noms de domaine en .tk représentent environ 30 millions d'
 Actuellement, il n'existe aucune alternative de qualité permettant d'obtenir un nom de domaine gratuit. Pourtant, à l'ère du Web3, des protocoles de nom basés sur la blockchain, des NFT, des smart contracts... les technologies abondent pour lier diverses sources de revenus à des domaines proposés gratuitement. C'est sur cette base que s'édifie notre démarche d'innovation.
 
 **2. Opportunité économique d'un Data Center:**
-Les projets d'implentation de Data Center actuels sur l'archipel manquent d'usages forts initiaux. La gestion locale du TLD .pm offre une opportunité unique d'établir un premier usage remarquable, introduisant Saint-Pierre et Miquelon comme un acteur clé dans le paysage numérique mondial.
+Les initiatives actuelles visant à implanter des centres de données sur l'archipel présentent un déficit en termes d'usages initiaux forts et légitimants. La gestion souveraine du TLD .pm représente une opportunité exceptionnelle pour établir un premier cas d'utilisation significatif, introduisant Saint-Pierre et Miquelon au rang d'acteur majeur dans le paysage numérique mondial.
 
 **3. Utilisation du câble numérique sous-marin comme un atout:**
 Le câble numérique sous-marin connectant l'archipel est une ressource stratégique. On peut exploiter ce câble comme une opportunité pour fournir des services numérique divers (hébérgement, Cloud, Streaming, Télétravail et collaboration...) créant une valeur ajoutée pouvant être associée à des domaines en .pm
