@@ -1,26 +1,31 @@
-# Draft - Manifeste pour un TLD .PM souverain et innovant
+# Draft - Manifeste pour un TLD .PM innovant
 
 ___Saint-Pierre et Miquelon dispose de sa propre extension de nom de domaine (comme les .fr, les .com etc). Celà s'appelle un TLD (Top Level Domain). Vous l'avez peut-être oublié, n'importe qui peut acheter un nom de domaine qui se termine en .pm et ce site le démontre.___
 
-La gestion du TLD .pm a été déléguée à l'AFNIC, mais il est temps de ramener cette responsabilité sur Saint-Pierre et Miquelon. En exploitant ce contrôle, l'archipel peut non seulement renforcer sa souveraineté numérique mais également générer des opportunités économiques significatives. 
+La gestion du TLD .pm a été pour l'instant déléguée à l'[AFNIC](https://www.afnic.fr/produits-services/noms-domaines-ultramarins/autres-noms-domaines/), mais il est possible pour Saint-Pierre et Miquelon d'en regagner la souveraineté. En opérant administrativement et techniquement cet outil numérique, l'archipel peut non seulement établir sa présence numérique mais également générer des opportunités économiques significatives. 
 
-**1. Opportunité économique d'un Data Center:**
-Les projets d'implentation de Data Center actuels sur l'archipel manquent d'usages forts initiaux [SCHÉMA DIRECTEUR TERRITORIAL D’AMÉNAGEMENT NUMÉRIQUE](DELIB2021-0289.pdf). La gestion locale du TLD .pm offre une opportunité unique d'établir un premier usage remarquable, introduisant Saint-Pierre et Miquelon comme un acteur clé dans le paysage numérique mondial.
+**1. Inspiré par le modèle .tk de Tokelau, mais avec une emphase éthique, conforme au droit, Web3 et premium:**
+Le modèle économique du TLD .tk, basé sur des domaines gratuits avec des options et services payants, a été une manne financière pour l'archipel de Tokelau (Nouvelle Zélande) qui a délégué la gestion de son TLD à une entreprise privée à but lucratif sur la base d'un partage de revenu. Cette innovation d'usage, est devenue le premier moteur de développement économique, social et culturel de l'archipel grace à une redistribution locale des importants revenus générés et un acroissement de la présence dans le monde numérique (voir éléments en référence de ce document). Aujourd'hui, seuls 8383 domaines sont enregistrés sur le TLD .pm, la plupart étant ce qu'on appelle des "parkings", reservés automatiquement par des robots logiciels d'entreprises qui visent, selon la politique du premier arrivé premier servi, à obtenir une importante plus-value de revente. Les nom de domaine en .tk quant à eux représentent environ 30 millions d'entrées, c'est le deuxième domaine le plus populaire du web derrière le .com et devant le .cn (Chine). Sa croissance est aujourd'hui afaiblie pour plusieurs raisons :
+   - La plupart des noms qui ont un sens sont utilisés
+   - Du fait de leurs gratuités, les domaines .tk sont devenus un repère de sites pirates, d'[hameçonnage](https://fr.wikipedia.org/wiki/Hame%C3%A7onnage), et de contenus frauduleux. Le TLD .tk est ainssi copieusement handicapé par les algorithmes des moteurs de recherche et représente 10.1% des sites à risque selon McAfee.
+Il n'existe ainsi aujourd'hui aucune alternative de qualité pour obtenir un nom de domaine gratuit. Pourtant, à l'heure du Web3, des protocoles de nom sur la blockchain, des NFT, smart-contracts... les solutions technologiques abondent pour attacher de nombreuses sources de revenu à des domaines proposés gratuitements. C'est ainsi que se construit notre démarche d'innovation.
 
-**2. Utilisation du câble numérique sous-marin comme un atout:**
+**2. Opportunité économique d'un Data Center:**
+Les projets d'implentation de Data Center actuels sur l'archipel manquent d'usages forts initiaux. La gestion locale du TLD .pm offre une opportunité unique d'établir un premier usage remarquable, introduisant Saint-Pierre et Miquelon comme un acteur clé dans le paysage numérique mondial.
+
+**3. Utilisation du câble numérique sous-marin comme un atout:**
 Le câble numérique sous-marin connectant l'archipel est une ressource stratégique. On peut exploiter ce câble comme une opportunité pour fournir des services numérique divers (hébérgement, Cloud, Streaming, Télétravail et collaboration...) créant une valeur ajoutée pouvant être associée à des domaines en .pm
 
-**3. Diversification des revenus:**
+**4. Diversification des revenus:**
 En reprenant la gestion du TLD, Saint-Pierre et Miquelon peut explorer diverses pistes de revenus. Cela inclut la redistribution des revenus du TLD, la création d'un fonds de développement local, et des partenariats avec des entreprises numériques locales pour promouvoir le développement économique durable.
 
-**4. Éthique du contenu et respect du droit numérique:**
-À la différence de certaines initiatives plus anciennes et moins maîtrisées, l'approche de Saint-Pierre et Miquelon repose sur une éthique du contenu. En respectant les normes et la sécurité du droit numérique, le TLD .pm sera promu comme une destination en ligne fiable et sécurisée.
+**5. Éthique du contenu et respect du droit numérique:**
+À la différence de certaines initiatives plus anciennes et moins maîtrisées comme le .tk, l'approche de Saint-Pierre et Miquelon repose sur une éthique du contenu. En respectant les normes et la sécurité du droit numérique, le TLD .pm sera promu comme une destination en ligne fiable et sécurisée.
 
-**5. Modernité et Blockchain:**
-La gestion du TLD .pm sera une occasion de moderniser les processus de propriété des domaines en intégrant la technologie blockchain. Les smart contracts offriront une transparence accrue et une sécurité renforcée, créant ainsi un environnement numérique fiable et innovant.
-
-**6. Inspiré par le modèle .tk de Tokelau, mais avec une emphase éthique:**
-Le modèle économique du [.tk](https://www.bfmtv.com/economie/entreprises/services/pourquoi-cette-ile-de-1-400-habitants-a-plus-de-sites-internet-que-la-france_AN-201603110173.html) (domaines gratuits / options payantes) a été une manne financière pour l'archipel de Tokelau, souverain sur son TLD. Cette innovation numérique est devenu le premier moteur de développement économique, social et culturel de l'archipel grace à une redistribution locale des revenus. Mais le projet pour le TLD .pm va au-delà en mettant l'accent sur l'éthique, la durabilité et la conformité aux normes internationales du droit numérique.
+**6. Modernité et Blockchain:**
+En plus de la simple logique de rémunération associée à une gestion traditionnelle, la mise en œuvre indépendante du TLD .pm offre l'opportunité de moderniser les processus de propriété de domaines web en intégrant la technologie blockchain. Les smart contracts associés peuvent fournir une transparence accrue sur l'audience des sites web, un moyen de collecter des revenus, ainsi qu'une sécurité renforcée. Tout cela contribue à créer un environnement numérique fiable, innovant et orienté vers les usages de demain, tels que le Web3, les DAO (organisations autonomes décentralisées), les nouveaux protocoles, etc.
+Un exemple concret de cette approche est l'immobilier fractionné tokenisé. L'entreprise [RealT](realt.co) propose des biens immobiliers à la vente sous forme de fractions en tant que NFT. Chaque propriété est divisée en un certain nombre de titres partiels et enregistrés sur la blockchain. Ils sont alors représentant de la valeur de marché du bien et vendus à ce prix. L'entreprise gère les aspects physiques des biens tels que l'entretien et la mise en location, les loyers perçus sont automatiquement versés par smart contract aux détenteurs des NFT correspondants.
+De manière similaire, la vente d'un titre de propriété peut se faire à n'importe quel montant choisi par le détenteur. Un smart contract peut être exécuté lors de la vente d'un titre, et dans le cas d'un titre de propriété d'un nom de domaine, une partie du montant de la vente peut être reversée, par exemple, au créateur du smart contract. Dans ce scénario, le gestionnaire du TLD .pm jouerait ce rôle particulier. Ceci n'est qu'un exemple parmi des milliers de possibilités.
 
 **7. Rayonnement du TLD .pm:**
 La promotion active du TLD .pm contribuera à son rayonnement mondial, attirant l'attention des entreprises et individus à la recherche de domaines qui garantissent non seulement une présence en ligne, mais également une responsabilité sociale, éthique, tournée vers les futurs usages numérique comme le Web3, la BlockChain, la décentralisation...
@@ -36,6 +41,24 @@ La gestion du TLD .pm permettrait également d'explorer des régimes fiscaux sp�
    - *Exonération des droits de douane:* Envisager des avantages tels que l'exonération des droits de douane sur l'importation d'équipements technologiques, encourageant ainsi l'infrastructure numérique sur l'archipel.
    - *Incitations à la formation:* Mettre en place des incitations fiscales pour les entreprises qui investissent dans la formation de la main-d'œuvre locale, favorisant le développement des compétences numériques.
 
-
-## En résumé
 La combinaison de la gestion souveraine du TLD .pm, des ZEN et de politiques fiscales avantageuses peut créer un écosystème propice à la croissance du secteur numérique, tout en offrant des avantages économiques durables à Saint-Pierre et Miquelon. Reprendre la gestion du TLD .pm est une démarche ambitieuse qui peut non seulement stimuler l'économie locale, mais aussi renforcer la souveraineté numérique du territoire, de la France et de l'Europe en mettant en œuvre des pratiques éthiques, modernes et innovantes dans la gestion des domaines en ligne. Ce projet représente une opportunité unique pour l'archipel de se positionner comme un acteur majeur dans l'économie numérique mondiale.
+
+## A propos
+
+Source : [https://github.com/damienlaine/spm/](https://github.com/damienlaine/spm/)
+
+MIT - LICENCE
+
+Copyright (c) 2023 Damien Laine - damien.laine[@]gmail.com
+
+## Références
+[Délibération et SCHÉMA DIRECTEUR TERRITORIAL D’AMÉNAGEMENT NUMÉRIQUE](DELIB2021-0289.pdf)
+[IANA - au sujet du .pm](https://www.iana.org/domains/root/db/pm.html)
+[Statistiques domaines AFNIC d'outre-mer](https://www.afnic.fr/observatoire-ressources/statistiques/)
+[.tk : 10.1% des sites à risque](http://www.vdp-digital.com/article-106-nom-de-domaine-dangereux)
+[.tk : 10% du PIB de l'archipel via l'entreprise Teletok](https://icannwiki.org/Teletok)
+[.tk : Historique du développement du projet - The Guardian](https://www.theguardian.com/technology/2007/oct/25/internet.guardianweeklytechnologysection)
+[.tk : "Depuis, l'archipel a été connecté au haut débit et a vu fleurir les cyber cafés"](https://la1ere.francetvinfo.fr/polynesie/tokelau-notre-voisin-numero-mondial-du-net-748217.html)
+[.tk : 30 Millions de nom de domaine pour 1400 habitants](https://www.bfmtv.com/economie/entreprises/services/pourquoi-cette-ile-de-1-400-habitants-a-plus-de-sites-internet-que-la-france_AN-201603110173.html)
+
+
