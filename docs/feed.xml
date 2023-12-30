@@ -1,1 +1,129 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://spm.pm/feed.xml" rel="self" type="application/atom+xml" /><link href="https://spm.pm/" rel="alternate" type="text/html" /><updated>2023-12-19T00:56:26+01:00</updated><id>https://spm.pm/feed.xml</id><title type="html">SPM - Demains Numériques</title><subtitle>Un espace de réflexion consacré à l&apos;exploration du potentiel de l&apos;industrie numérique sur l&apos;archipel de Saint-Pierre et Miquelon.</subtitle></feed>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://spm.pm/</id>
+  <title>SPM - Demains Numériques</title>
+  <subtitle>Un espace de réflexion consacré à l'exploration du potentiel de l'industrie numérique sur l'archipel de Saint-Pierre et Miquelon.</subtitle>
+  <updated>2023-12-30T01:54:11+01:00</updated>
+  <author>
+    <name>Damien Laine - SPM.PM</name>
+    <uri>https://spm.pm/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://spm.pm/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="fr-FR"
+    href="https://spm.pm/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Damien Laine - SPM.PM </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Du notre économie : Entre défis locaux et mondiaux</title>
+    <link href="https://spm.pm/posts/contexte-economique/" rel="alternate" type="text/html" title="Du notre économie : Entre défis locaux et mondiaux" />
+    <published>2023-12-28T00:00:00+01:00</published>
+  
+    <updated>2023-12-28T00:00:00+01:00</updated>
+  
+    <id>https://spm.pm/posts/contexte-economique/</id>
+    <content src="https://spm.pm/posts/contexte-economique/" />
+    <author>
+      <name>Damien Laine - SPM.PM</name>
+    </author>
+
+  
+    
+    <category term="Postulat" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Limites physiques du développement industriel
+
+Alors que la superficie limitée du territoire de Saint-Pierre et Miquelon (242 kilomètres carrés) représente un défi intrinsèque en termes de ressources, qu’elles soient naturelles ou humaines, le territoire est dans une dépendance externe aux ressources vitales importées, comme les produits alimentaires, les matériaux de construction, l’énergie… L...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>De notre histoire : Vision d'avenir à la lumière du passé</title>
+    <link href="https://spm.pm/posts/vision-d-avenir/" rel="alternate" type="text/html" title="De notre histoire : Vision d&amp;apos;avenir à la lumière du passé" />
+    <published>2023-12-27T00:00:00+01:00</published>
+  
+    <updated>2023-12-27T00:00:00+01:00</updated>
+  
+    <id>https://spm.pm/posts/vision-d-avenir/</id>
+    <content src="https://spm.pm/posts/vision-d-avenir/" />
+    <author>
+      <name>Damien Laine - SPM.PM</name>
+    </author>
+
+  
+    
+    <category term="Postulat" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      WORK IN PROGRESS
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>De nos atouts : Pourquoi le numérique ?</title>
+    <link href="https://spm.pm/posts/opportunites/" rel="alternate" type="text/html" title="De nos atouts : Pourquoi le numérique ?" />
+    <published>2023-12-25T00:00:00+01:00</published>
+  
+    <updated>2023-12-25T00:00:00+01:00</updated>
+  
+    <id>https://spm.pm/posts/opportunites/</id>
+    <content src="https://spm.pm/posts/opportunites/" />
+    <author>
+      <name>Damien Laine - SPM.PM</name>
+    </author>
+
+  
+    
+    <category term="Postulat" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      WORK IN PROGRESS
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
