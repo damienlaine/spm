@@ -1,5 +1,5 @@
 ---
-title: "Du notre économie : Entre défis locaux et mondiaux"
+title: "De notre économie : Entre défis locaux et mondiaux"
 categories: [Postulat]
 pin: true
 image: /img/economy.jpg
@@ -10,7 +10,7 @@ image: /img/economy.jpg
 
 Alors que la superficie limitée du territoire de Saint-Pierre et Miquelon (242 kilomètres carrés) représente un défi intrinsèque en termes de ressources, qu'elles soient naturelles ou humaines, le territoire est dans une dépendance externe aux ressources vitales importées, comme les produits alimentaires, les matériaux de construction, l'énergie... Les conditions climatiques, ainsi que la nécessité de préserver l'environnement naturel, jouent également un rôle crucial dans les limites de croissances industrielles ou agricoles. Les perspectives d'exportations et le développement d'initiatives à valeur ajoutée, basées sur la transformation de produits importés, se heurtent à des obstacles logistiques et à des répercussions environnementales sur l’empreinte au sol d’infrastructures.
 
-Avant-tout territoire maritime, Saint-Pierre et Miquelon se trouve également confronté à des restrictions de sa Zone Économique Exclusive de pêche. Bien que des opportunités dynamiques aient été exploitées, telles que l'élevage de Saint-Jacques à Miquelon, la diversification de la pêche vers dautres espèces ou encore l'écloserie de homards, ces initiatives semblent avoir du mal à atteindre une envergure comparable à celle d'avant le moratoire sur la pêcherie de morue de Terre-Neuve de 1992. La ressource maritime semble demeurer ancrée dans le secteur artisanal, et la production reste en deçà des quotas établis..
+Avant-tout territoire maritime, Saint-Pierre et Miquelon se trouve également confronté à des restrictions de sa Zone Économique Exclusive de pêche. Bien que des opportunités dynamiques aient été exploitées, telles que l'élevage de Saint-Jacques à Miquelon, la diversification de la pêche vers d'autres espèces ou encore l'écloserie de homards, ces initiatives semblent avoir du mal à atteindre une envergure comparable à celle d'avant le moratoire sur la pêcherie de morue de Terre-Neuve de 1992. La ressource maritime semble demeurer ancrée dans le secteur artisanal, et la production reste en deçà des quotas établis..
 
 À l'échelle mondiale, en regard des crises écologiques et environnementales, la raison est tournée vers un déclin de la pêche industrielle, la biomasse de poissons restant à un état critique dans la ZEE de Saint-Pierre et Miquelon. De même les recherches pétrolières ou l’exploitation de nodules polymétalliques sont à considérer comme des utopies de croissance infinie plus ou moins climatosceptiques (rendement et impact environnemental des infrastructures)
 
@@ -46,7 +46,7 @@ Nous ne pourrons sans doute jamais devenir un Qatar... La leçon à tirer de cet
 
 ## Conclusion
 
-Pour sortir d’un anesthésiant climat d’assistanat, dans un monde en mutation, pour tracer son chemin vers un avenir prospère, résilient face aux incertitudes, c’est avec vigueur que nous devons tourner notre regard vers la souveraineté économique et les investissements audacieux, les seuls capables de créer un équilibre économique et démographique durable.
+Pour sortir d’un climat économique anesthésié, dans un monde en mutation, pour tracer son chemin vers un avenir prospère, résilient face aux incertitudes, c’est avec vigueur que nous devons tourner notre regard vers la souveraineté économique et les investissements audacieux, les seuls capables de créer un équilibre économique et démographique durable.
 
-> Note Du Rédacteur : Cet article est le premier volet des trois thèmes qui nous ont fait “oser” le postulat fondateur de ce site sur l’industrie numérique. Nous vous invitons à poursuivre votre lecture :
+> __Note Du Rédacteur__ : Cet article est le premier volet des trois thèmes qui nous ont fait “oser” le postulat fondateur de ce site sur l’industrie numérique. Nous vous invitons à poursuivre votre lecture : [De notre histoire : Vision d'avenir à la lumière du passé](/posts/vision-d-avenir/)
 {: .prompt-tip }

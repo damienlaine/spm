@@ -20,4 +20,4 @@ __[Rejoignez le serveur Discord du groupe de réflexion](https://discord.gg/EAzU
 3. Enfin, afin de montrer de nouveaux possibles par l’exemple, nous proposons de participer à la définition d’un projet innovant s’articulant autour de la gestion souveraine de l’espace de noms de domaines .PM : __[Manifeste pour un TLD .PM innovant (draft)](/tld)__
 
 
-### Nous vous encourageons à lire les articles épinglés ci-dessous pour comprendre l'émergence de ce postulat :
+### Nous vous encourageons à lire les articles épinglés ci-dessous pour comprendre l'émergence du postulat :
